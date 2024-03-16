@@ -1,4 +1,4 @@
 # dipak-demo
 learning repository.
 <br>
-author- Dipak Bera
+author- Dipak Bera (programmer)
